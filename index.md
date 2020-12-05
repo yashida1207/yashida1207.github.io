@@ -12,19 +12,23 @@ Email:
 
 
 
-## Education 
+# Education 
 
 
 
-## Awards etc 
+# Awards etc 
 
 
 
-## Publications 
+# Publications 
 
 
 
-## Presentations 
+# Presentations 
+
+
+
+
 
 
 You can use the []([editor on GitHub](https://github.com/yashida1207/yashida1207.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.)
