@@ -1,4 +1,4 @@
-# *Welcome to Yosuke Ashida's Home Page*
+# Welcome to Yosuke Ashida's Home Page
 
 I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin IceCube Particle Astrophysics Center (WIPAC)](https://wipac.wisc.edu/), University of Wisconsin-Madison. 
 
