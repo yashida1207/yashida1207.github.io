@@ -1,5 +1,40 @@
 ## Welcome to Yosuke Ashida's Home Page 
 
+I am an experimental particle astrophysicist. 
+Major interests are astrophysics via detection of ultra high energy neutrinos. 
+
+
+## Personal Information 
+
+
+
+## Employment 
+
+
+
+## Education 
+
+
+
+## Awards, etc 
+
+
+
+## Publications (Major-contributed)
+
+
+
+## Publications (Others)
+
+
+
+## Presentations (International Conferences and Workshops)
+
+
+
+## Presentations (Others)
+
+
 You can use the []([editor on GitHub](https://github.com/yashida1207/yashida1207.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
