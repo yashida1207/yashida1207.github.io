@@ -1,4 +1,4 @@
-# Welcome to Yosuke Ashida's Home Page
+# **Welcome to Yosuke Ashida's Home Page**
 
 I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin IceCube Particle Astrophysics Center (WIPAC)](https://wipac.wisc.edu/), University of Wisconsin-Madison. 
 
@@ -8,7 +8,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 
 
-## Employment 
+## **Employment**
 
 | Period | Position and Institute | 
 | :---   | :---                   | 
@@ -20,7 +20,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 
 
-## Education 
+## **Education**
 
 | Period | School | 
 | :--- | :--- | 
@@ -31,7 +31,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 
 
-## Awards etc 
+## **Awards, etc** 
 
 1. [The 15th Young Scientist Award of the Physics Society of Japan, Experimental Particle Physics, 2021](https://www.jps.or.jp/english/meetings-and-awards/award.html)
 
@@ -43,7 +43,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 
 
-## Publications 
+## **Publications** 
 
 ### Major-contributed 
 
@@ -59,7 +59,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 
 
-## Presentations 
+## **Presentations**
 
 ### International conferences and workshops 
 
