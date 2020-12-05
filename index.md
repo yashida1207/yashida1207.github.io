@@ -35,10 +35,15 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 1. [The 15th Young Scientist Award of the Physics Society of Japan, Experimental Particle Physics, 2021](https://www.jps.or.jp/english/meetings-and-awards/award.html)
 1. [The 22nd High Energy Physics Young Researcher’s Award, 2020](http://www.jahep.org/en/syourei.html)
 1. Exemption from Repayment for Students with Excellent Grades (FY2016), Japan Student Services Organization (JASSO) Category 1 (interest-free) scholarship (Exemption of half of the loan)
-1. Representative from Japan for the CERN Summer Student Programme 2015 at CERN, Switzerland ([Report](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf) *in Japanese*)
+1. Representative from Japan for the CERN Summer Student Programme 2015 ([Report](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf) *in Japanese*)
 
 
 ## Publications 
+
+1. Y. Ashida, H. Nagata et al., “Measurement of γ-ray production via neutron-16O reaction using a 77 MeV quasi-mono energetic neutron beam”,  Submitted to Physical Review C [preprint] http://arxiv.org/abs/1902.08964
+1. K. Abe et al. (T2K Collaboration), “Measurement of neutrino and antineutrino neutral-current quasielasticlike interactions on oxygen by detecting nuclear deexcitation γ rays”, Physical Review D 100, 112009 (2019).
+1. Y. Ashida, M. Friend et al., “A new electron-multiplier-tube-based beam monitor for muon monitoring at the T2K experiment”,  Progress of Theoretical and Experimental Physics, 103H01 (2018). 
+1. Y. Ashida, H. Nagata, Y. Koshio, T. Nakaya, R. Wendell, “Separation of gamma-ray and neutron events with CsI(Tl) pulse shape analysis”,  Progress of Theoretical and Experimental Physics, 043H01 (2018), Erratum: 069201 (2018). 
 
 
 
