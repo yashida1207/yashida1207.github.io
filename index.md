@@ -30,12 +30,12 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 <style>
 .column-left{
   float: left;
-  width: 47.5%;
+  width: 22.5%;
   text-align: left;
 }
 .column-right{
   float: right;
-  width: 47.5%;
+  width: 72.5%;
   text-align: left;
 }
 .column-one{
@@ -47,13 +47,21 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 
 <div class="column-left">
-
-# Left Column
+  
+**Jun, 2020 -** \ 
+**Apr, 2020 - May, 2020** \ 
+**Apr, 2017 - Mar, 2020** \ 
+**Aug, 2016** \ 
+**Apr, 2015 - Mar, 2016** 
 
 </div>
 <div class="column-right">
 
-# Right Column
+Postdoc at WIPAC, University of Wisconsin-Madison \ 
+Research Associate at Kyoto University \ 
+Japan Society for the Promotion of Science Research Fellow (DC1) \ 
+Assistant for the Open Campus of Kyoto University \ 
+Teaching Assistant at Kyoto University, Experimental Physics Class for Undergraduate Students
 
 </div>
 
