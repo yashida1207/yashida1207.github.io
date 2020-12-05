@@ -10,6 +10,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## Employment 
 
+| Period | Position and Institute | 
 | :---   | :---                   | 
 | **Jun, 2020 - Present**   | Postdoc at WIPAC, University of Wisconsin-Madison | 
 | **Apr, 2020 - May, 2020** | Research Associate at Kyoto University | 
@@ -21,10 +22,18 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## Education 
 
+| :--- | :--- | 
+| **Apr, 2017 - Mar, 2020** | Department of Science, Kyoto University (*Ph.D*) | 
+| **Apr, 2015 - Mar, 2017** | Department of Science, Kyoto University (*Master's Degree*) | 
+| **Apr, 2011 - Mar, 2015** | Department of Engineering, Kyoto University (*Bachalor's Degree*) | 
+| **Apr, 2008 - Mar, 2011** | Osaka Seiko Gakuin High School | 
 
 
 ## Awards etc 
 
+1. [The 15th Young Scientist Award of the Physics Society of Japan, Experimental Particle Physics, 2021](https://www.jps.or.jp/english/meetings-and-awards/award.html)
+1. [The 22nd High Energy Physics Young Researcher’s Award, 2020](http://www.jahep.org/en/syourei.html)
+1. Exemption from Repayment for Students with Excellent Grades (FY2016), Japan Student Services Organization (JASSO) Category 1 (interest-free) scholarship (Exemption of half of the loan)
 
 
 ## Publications 
