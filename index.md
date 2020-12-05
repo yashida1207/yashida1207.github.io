@@ -3,8 +3,8 @@
 I am an experimental particle astrophysicist. 
 Major interests are astrophysics via detection of ultra high energy neutrinos. 
 
-Research Interests: Ultra high energy cosmic-rays, Neutrino astronomy, Multimessenger astronomy, Supernova neutrinos
-Office: 
+Research Interests: Ultra high energy cosmic-rays, Neutrino astronomy, Multimessenger astronomy, Supernova neutrinos \
+Office: \
 Email: 
 
 
