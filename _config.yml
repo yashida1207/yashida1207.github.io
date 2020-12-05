@@ -1,3 +1,21 @@
 theme: jekyll-theme-cayman
 lang: ja-JP
-title: The website under construction... 
+title: The website under construction ...
+
+<style>
+.column-left{
+  float: left;
+  width: 47.5%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 47.5%;
+  text-align: left;
+}
+.column-one{
+  float: left;
+  width: 100%;
+  text-align: left;
+}
+</style>
