@@ -3,8 +3,9 @@
 I am an experimental particle astrophysicist. 
 Major interests are astrophysics via detection of ultra high energy neutrinos. 
 
-
-## Personal Information 
+Research Interests: Ultra high energy cosmic-rays, Neutrino astronomy, Multimessenger astronomy, Supernova neutrinos
+Office: 
+Email: 
 
 
 
@@ -16,23 +17,15 @@ Major interests are astrophysics via detection of ultra high energy neutrinos.
 
 
 
-## Awards, etc 
+## Awards etc 
 
 
 
-## Publications (Major-contributed)
+## Publications 
 
 
 
-## Publications (Others)
-
-
-
-## Presentations (International Conferences and Workshops)
-
-
-
-## Presentations (Others)
+## Presentations 
 
 
 You can use the []([editor on GitHub](https://github.com/yashida1207/yashida1207.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.)
