@@ -50,12 +50,12 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 <div class="column-left">
 
-# Left Column
+Left Column
 
 </div>
 <div class="column-right">
 
-# Right Column
+Right Column
 
 </div>
 
