@@ -176,7 +176,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 **T2K new muon beam monitor**: 
 
-**Measurement of &gamma;-rays from neutron-oxygen reactions**: 
+**Measurement of γ-rays from neutron-oxygen reactions**: 
 
 **Beam intensity scan with ATLAS pixel detectors**: 
 
