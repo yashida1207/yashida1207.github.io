@@ -214,6 +214,8 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 **Beam intensity scan with ATLAS pixel detectors**: 
 
+**Cosmological parameter impacts on CMB B-Modes**: 
+
 
 
 ## **Other Activities**
