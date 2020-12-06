@@ -51,7 +51,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Publications** 
 
-### Major-contributed 
+### Major-contributed papers 
 
 1. Y. Ashida, H. Nagata et al., “*Measurement of γ-ray production via neutron-16O reaction using a 77 MeV quasi-mono energetic neutron beam*”, [Preprint](http://arxiv.org/abs/1902.08964)
 
@@ -61,7 +61,10 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. Y. Ashida, H. Nagata, Y. Koshio, T. Nakaya, R. Wendell, “*Separation of gamma-ray and neutron events with CsI(Tl) pulse shape analysis*”, [Progress of Theoretical and Experimental Physics, 043H01 (2018)](https://academic.oup.com/ptep/article/2018/4/043H01/4980960), [Erratum: 069201 (2018)](https://academic.oup.com/ptep/article/2018/6/069201/5046150)
 
-### Others 
+### Other papers 
+
+
+### Conference proceedings 
 
 
 
