@@ -115,6 +115,10 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 
 
+<details><summary>表示文字</summary>
+中身の文章
+</details>
+
 
 
 
