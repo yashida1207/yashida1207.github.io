@@ -6,7 +6,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 **Office**: WIPAC, 222 W. Washington Ave. #500, Madison, Wisconsin, 53703, USA
 
-**Email**: yosuke.ashida [at] icecube.wisc.edu
+**Email**: yosuke.ashida (at) icecube.wisc.edu
 
 
 
