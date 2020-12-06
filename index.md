@@ -63,7 +63,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. Y. Ashida, H. Nagata et al., "*Measurement of &gamma;-ray production via neutron-16O reaction using a 77 MeV quasi-mono energetic neutron beam*", [Preprint](http://arxiv.org/abs/1902.08964)
 
-1. K. Abe et al. (T2K Collaboration), "*Measurement of neutrino and antineutrino neutral-current quasielasticlike interactions on oxygen by detecting nuclear deexcitation γ rays*", [Physical Review D 100, 112009 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)
+1. K. Abe et al. (T2K Collaboration), "*Measurement of neutrino and antineutrino neutral-current quasielasticlike interactions on oxygen by detecting nuclear deexcitation &gamma; rays*", [Physical Review D 100, 112009 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)
 
 1. Y. Ashida, M. Friend et al., "*A new electron-multiplier-tube-based beam monitor for muon monitoring at the T2K experiment*", [Progress of Theoretical and Experimental Physics, 103H01 (2018)](https://academic.oup.com/ptep/article/2018/10/103H01/5145636)
 
