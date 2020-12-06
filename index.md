@@ -46,7 +46,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Research Grants**
 
-1. [Japan Society for the Promotion of Science Research Fellow (DC1), 17J06141, "*Search for supernova relic neutrinos by improving neutrino neutral current cross section measurement*"](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17J06141/2017/)
+1. [Japan Society for the Promotion of Science Research Fellow (DC1), No. 17J06141](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17J06141/2017/), "*Search for supernova relic neutrinos by improving neutrino neutral current cross section measurement*"
 
 
 ## **Publications** 
