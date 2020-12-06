@@ -168,7 +168,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. "*Search for Supernova Relic Neutrinos at Super-Kamiokande*", Only slides uploaded due to COVID-19 (*in Japanese*), The 75th Annual Meeting of Japan Physics Society, Mar, 2020, Nagoya University, Japan
 
-1. "*Supernova Relic Neutrino Searches in the Present and Future Kamioka Experiments*", Oral Presentation, Lunch Seminar, Mar, 2020, University of Chicago, US
+1. "*Supernova Relic Neutrino Searches in the Present and Future Kamioka Experiments*", Oral Presentation, Lunch Seminar, Mar, 2020, University of Chicago, USA
 
 1. "*Supernova Relic Neutrino Searches*", Oral Presentation (*in Japanese*), The 26th ICEPP Symposium, Feb, 2020, Nagano, Japan
 
