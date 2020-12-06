@@ -204,17 +204,17 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Research History**
 
-**Supernova relic neutrino search in Super-Kamiokande**: 
+**Supernova relic neutrino search in Super-Kamiokande [2019-]**: (to be updated)
 
-**Neutrino neutral-current quasielastic scattering measurement in T2K**: 
+**Neutrino neutral-current quasielastic scattering measurement in T2K [2017-2019]**: Neutrino-oxygen neutral-current quasielastic interactions are among the major background in supernova relic neutrino searches at water Cherenkov detectors. I was analysing T2K data to measure this channel precisely, utilizing nuclear γ-rays as a signal channel. The analysis results are published in the paper ([link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)). 
 
-**T2K new muon beam monitor**: 
+**T2K muon beam monitor studies [2016-2019]**: I was working as an expert of the muon monitor for T2K. Here I managed the calibration and trouble shootings in the experimental operation and performed various studies for the current and future beam monitors. The results are published in the paper ([link](https://academic.oup.com/ptep/article/2018/10/103H01/5145636)). 
 
-**Measurement of γ-rays from neutron-oxygen reactions**: 
+**Measurement of γ-rays from neutron-oxygen reactions [2015-2020]**: I conducted beam tests at Osaka University’s Research Center for Nuclear Physics (RCNP) to measure production cross sections of γ-rays arising from the neutron-oxygen reaction. This is motivated by the large systematic uncertainty regarding the relevant cross sections in the neutrino neutral-current measurement in T2K. The measurement results are sumarrized in the paper ([link](http://arxiv.org/abs/1902.08964)). 
 
-**Beam intensity scan with ATLAS pixel detectors**: 
+**Beam intensity scan with ATLAS pixel detectors [2015]**: As a research project in the CERN summer student program, I was working on the beam intensity measurement in the LHC-ATLAS experiment. The beam intensity is measured by the van der Meer scan in the collider experiment, where the Gaussian shape is assumed for the beam profile. I studied the potential systematic uncertainty coming from this assumption by changing the beam shape in a toy MC simulation. I also analysed the vdM scan data observed by the IBL detector and measured the beam intensity roughly. 
 
-**Cosmological parameter impacts on CMB B-Modes**: 
+**Cosmological parameter impacts on CMB B-Modes [2014]**: As a research theme for the undergraduate thesis, I was studying the impact of cosmological parameters on the CMB B-mode using the CAMB simulator. 
 
 
 
