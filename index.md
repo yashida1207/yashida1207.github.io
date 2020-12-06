@@ -137,12 +137,13 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe at al. (Hyper-Kamiokande Proto-Collaboration), "*Hyper-Kamiokande Design Report*", [Document](https://arxiv.org/abs/1805.04163)
 
-
-
 ### Conference proceedings 
 
 1. Y. Ashida (for the RCNP-E487 Collaboration), "*Measurement of gamma-ray emission from neutron-<sup>16</sup>O reactions with an 80 MeV quasi-mono energetic neutron beam*", [Proceedings of NUFACT2017, 077 (2018)](https://s3.cern.ch/inspire-prod-files-a/a6eecec8a8f1bb193131a8076cf2d57d)
 
+### Articles 
+
+1. "*Report on CERN Summer Student Programme 2015*", High Energy Physics News (*in Japanese*), [Japan Association of High Energy Physicists, Vol.34, No.3, pp.204-206, Oct - Dec, 2015](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf)
 
 
 ## **Presentations**
