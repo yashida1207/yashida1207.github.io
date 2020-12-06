@@ -53,7 +53,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Dissertations 
 
-1. [Ph.D Thesis, Department of Science, Kyoto University, 2020 (*in Japanese*)](https://www-he.scphys.kyoto-u.ac.jp/theses/doctor/dt_ashida.pdf), "*Measurement of Neutrino and Antineutrino Neutral-Current Quasielastic-like Interactions and Applications to Supernova Relic Neutrino Searches*"
+1. [Ph.D Thesis, Department of Science, Kyoto University, 2020](https://www-he.scphys.kyoto-u.ac.jp/theses/doctor/dt_ashida.pdf), "*Measurement of Neutrino and Antineutrino Neutral-Current Quasielastic-like Interactions and Applications to Supernova Relic Neutrino Searches*"
 
 1. [Master Thesis, Department of Science, Kyoto University, 2017 (*in Japanese*)](https://www-he.scphys.kyoto-u.ac.jp/theses/master/ashida_mt.pdf), "*Study of Nucleon-Oxygen Reactions for Precise Measurements of Neutrino Neutral-Current Interactions*"
 
