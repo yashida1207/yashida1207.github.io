@@ -206,7 +206,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 **Supernova relic neutrino search in Super-Kamiokande [2019 -]**: (to be updated)
 
-**Neutrino neutral-current quasielastic scattering measurement in T2K [2017 - 2019]**: Neutrino-oxygen neutral-current quasielastic interactions are among the major background in supernova relic neutrino searches at water Cherenkov detectors. I was analysing T2K data to measure this channel precisely, utilizing nuclear γ-rays as a signal channel. The analysis results are published in the paper ([link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)). 
+**Neutrino neutral-current quasielastic scattering measurement in T2K [2017 - 2019]**: Neutrino-oxygen neutral-current quasielastic interactions are among the major background in supernova relic neutrino searches at water Cherenkov detectors. I was analysing Super-Kamipkande data from T2K beams to measure this channel precisely, utilizing nuclear γ-rays as a signal channel. The analysis results are published in the paper ([link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)). 
 
 **T2K muon beam monitor studies [2016 - 2019]**: I was working as an expert of the muon monitor for T2K. Here I managed the calibration and trouble shootings in the experimental operation and performed various studies for the current and future beam monitors. The results are published in the paper ([link](https://academic.oup.com/ptep/article/2018/10/103H01/5145636)). 
 
