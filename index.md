@@ -95,7 +95,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 **Neutrino neutral-current quasielastic scattering measurement in T2K**: 
 
-**New muon beam monitor for the T2K experiment**: 
+**T2K new muon beam monitor**: 
 
 **Measurement of &gamma;-rays from neutron-oxygen reactions**: 
 
