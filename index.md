@@ -44,9 +44,11 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 1. Representative from Japan for the CERN Summer Student Programme 2015 ([Report](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf) *in Japanese*)
 
 
+
 ## **Research Grants**
 
 1. [Japan Society for the Promotion of Science Research Fellow (DC1), No. 17J06141](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17J06141/2017/), "*Search for supernova relic neutrinos by improving neutrino neutral current cross section measurement*"
+
 
 
 ## **Publications** 
@@ -73,6 +75,8 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 
 ### Conference proceedings 
+
+1. Y. Ashida (for the RCNP-E487 Collaboration), "*Measurement of gamma-ray emission from neutron-16O reactions with an 80 MeV quasi-mono energetic neutron beam*", [Proceedings of NUFACT2017, 077 (2018)](https://s3.cern.ch/inspire-prod-files-a/a6eecec8a8f1bb193131a8076cf2d57d)
 
 
 
