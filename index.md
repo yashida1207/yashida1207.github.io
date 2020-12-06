@@ -236,3 +236,12 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 1. Kyoto University Academic Day 2015, *Giving a presentation on experimental researches of neutrino physics for people outside the area*, Sep, 2015 
 
 
+
+
+{% if page.lastmod %}
+  {% assign lastmod = page.lastmod %}
+{% else %}
+  {% assign lastmod = page.date %}
+{% endif %}
+
+<span class="date">{{ lastmod }}</span>
