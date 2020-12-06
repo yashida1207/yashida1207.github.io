@@ -143,7 +143,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Articles 
 
-1. "*Report on CERN Summer Student Programme 2015*", High Energy Physics News (*in Japanese*), [Japan Association of High Energy Physicists, Vol.34, No.3, pp.204-206, Oct - Dec, 2015](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf)
+1. "*Report on CERN Summer Student Programme 2015*", [High Energy Physics News, Japan Association of High Energy Physicists, Vol.34, No.3, pp.204-206, Oct - Dec, 2015](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf) (*in Japanese*)
 
 
 ## **Presentations**
