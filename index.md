@@ -1,3 +1,8 @@
+```
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+```
+
 # **Welcome to Yosuke Ashida's Webpage**
 
 I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin IceCube Particle Astrophysics Center (WIPAC)](https://wipac.wisc.edu/), University of Wisconsin-Madison. 
@@ -9,10 +14,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 **Email**: yosuke.ashida [at] icecube.wisc.edu
 
 
-* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
-
-
+---
 
 ## **Employment**
 
@@ -24,7 +26,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 | **Aug, 2016**             | Open Campus Assistant (Kyoto University) | 
 | **Apr, 2015 - Mar, 2016** | Teaching Assistant (Kyoto University) | 
 
-
+---
 
 ## **Education**
 
@@ -35,7 +37,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 | **Apr, 2011 - Mar, 2015** | Department of Engineering, Kyoto University (Bachalor's Degree) | 
 | **Apr, 2008 - Mar, 2011** | Osaka Seiko Gakuin High School | 
 
-
+---
 
 ## **Awards, etc** 
 
@@ -47,13 +49,13 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. Representative from Japan for [CERN Summer Student Programme 2015](https://home.cern/summer-student-programme) ([Report](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf) *in Japanese*)
 
-
+---
 
 ## **Research Grants**
 
 1. [Japan Society for the Promotion of Science Research Fellow (DC1), No. 17J06141](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17J06141/2017/), "*Search for supernova relic neutrinos by improving neutrino neutral current cross section measurement*"
 
-
+---
 
 ## **Publications** 
 
@@ -149,6 +151,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. "*Report on CERN Summer Student Programme 2015*", [High Energy Physics News, Japan Association of High Energy Physicists, Vol.34, No.3, pp.204-206, Oct - Dec, 2015](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf) (*in Japanese*)
 
+---
 
 ## **Presentations**
 
@@ -203,7 +206,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. "*Constraint on the inflation model by the CMB B-mode simulation studies*", Poster Presentation (*in Japanese*), The 5th Spring School on High Energy Physics, Jun, 2015, Shiga, Japan
 
-
+---
 
 ## **Research History**
 
@@ -217,7 +220,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 **Beam intensity scan with ATLAS pixel detectors**: 
 
-
+---
 
 ## **Other Activities**
 
