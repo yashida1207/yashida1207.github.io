@@ -87,7 +87,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Research History**
 
-**Measurement of $gamma$**: 
+
 
 
 
