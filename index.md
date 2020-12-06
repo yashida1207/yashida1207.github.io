@@ -75,9 +75,9 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Indirect Search for Dark Matter from the Galactic Center and Halo with the Super-Kamiokande Detector*", [Preprint](https://arxiv.org/abs/2005.05109)
 
-1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e+&pi:<sup>0</sup> and p→mu+pi0 with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Preprint](https://arxiv.org/abs/2010.16098)
+1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e+π<sup>0</sup> and p→mu+pi0 with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Preprint](https://arxiv.org/abs/2010.16098)
 
-1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-νμ and anti-&nu;<sub>&mu;</sub> + νμ charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
+1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-νμ and anti-ν<sub>μ</sub> + ν<sub>μ</sub> charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
 
 1. K. Abe et al. (T2K Collaboration), "*Simultaneous measurement of the muon neutrino charged-current cross section on oxygen and carbon without pions in the final state at T2K*”, [Preprint](https://arxiv.org/abs/2004.05434)
 
@@ -113,21 +113,21 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. L. Wan et al. (Super-Kamiokande Collaboration), "*Measurement of the neutrino-oxygen neutral-current quasielastic cross section using atmospheric neutrinos at Super-Kamiokande*", [Physical Review D 99, 032005 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.032005)
 
-1. K. Abe at al. (T2K Collaboration), "*Search for CP violation in Neutrino and Antineutrino Oscillations by the T2K experiment with 2.2 × 1021 protons on target*", [Physical Review Letters 121, 171802 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.171802)
+1. K. Abe at al. (T2K Collaboration), "*Search for CP violation in Neutrino and Antineutrino Oscillations by the T2K experiment with 2.2 × 10<sup>21</sup> protons on target*", [Physical Review Letters 121, 171802 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.171802)
 
 1. K. Abe at al. (Hyper-Kamiokande Proto-Collaboration), "*Physics Potential with the second Hyper-Kamiokande detector in Korea*", [Progress of Theoretical and Experimental Physics, 063C01 (2018)](https://academic.oup.com/ptep/article/2018/6/063C01/5041972)
 
 1. K. Abe at al. (T2K Collaboration), "*Characterization of nuclear effects in muon-neutrino scattering on hydrocarbon with a measurement of final-state kinematics and correlations in charged-current pionless interactions at T2K*", [Physical Review D 98, 032003 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.032003)
 
-1. K. Abe at al. (T2K Collaboration), "*Measurement of inclusive double-differential νμ charged-current cross section with improved acceptance in the T2K off-axis near detector*", [Physical Review D 98, 012004 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.012004)
+1. K. Abe at al. (T2K Collaboration), "*Measurement of inclusive double-differential ν<sub>μ</sub> charged-current cross section with improved acceptance in the T2K off-axis near detector*", [Physical Review D 98, 012004 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.012004)
 
 1. K. Abe at al. (T2K Collaboration), "*First measurement of the νμ charged-current cross section on a water target without pions in the final state*", [Physical Review D 97, 012001 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.012001)
 
 1. K. Abe at al. (T2K Collaboration), "*Measurement of neutrino and antineutrino oscillations by the T2K experiment including a new additional sample of νe interactions at the far detector*", [Physical Review D 96, 092006 (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.092006), [Erratum: 98, 019902 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.019902)
 
-1. K. Abe at al. (T2K Collaboration), "*Measurement of anti-νμ and νμ charged current inclusive cross sections and their ratio with the T2K off-axis near detector*", [Physical Review D 96, 052001 (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.052001)
+1. K. Abe at al. (T2K Collaboration), "*Measurement of anti-ν<sub>μ</sub> and ν<sub>μ</sub> charged current inclusive cross sections and their ratio with the T2K off-axis near detector*", [Physical Review D 96, 052001 (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.052001)
 
-1. K. Abe at al. (T2K Collaboration), "*Updated T2K measurements of muon neutrino and antineutrino disappearance using 1.5 × 1021 protons on target*", [Physical Review D 96, 011102(R) (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.011102)
+1. K. Abe at al. (T2K Collaboration), "*Updated T2K measurements of muon neutrino and antineutrino disappearance using 1.5 × 10<sup>21</sup> protons on target*", [Physical Review D 96, 011102(R) (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.011102)
 
 ### Design Reports 
 
