@@ -179,3 +179,28 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 **Measurement of &gamma;-rays from neutron-oxygen reactions**: 
 
 **Beam intensity scan with ATLAS pixel detectors**: 
+
+
+
+## **Other Activities**
+
+### Programs 
+
+1. [The 10th International Neutrino Summer School (INSS2017)](https://indico.fnal.gov/event/13429/), Fermilab, USA, Aug, 2017
+
+1. [International School for Neutrino Nucleus Scattering Physics by Theory and Experiment Collaboration 2015 (NuSTEC2015)](https://indico.ipmu.jp/indico/event/71/), Okayama University, Japan, Nov, 2015
+
+1. CERN Summer Student Programme 2015, CERN, Switzerland, Jun - Sep, 2015
+
+
+### Outreach
+
+1. Kamioka Tour for High School Students, *Giving a guide on Kamioka Observatory to high school students*, Aug, 2019 
+
+1. Kyoto University Academic Day 2018, *Giving a presentation on experimental researches of particle physics for people outside the area*, Sep, 2018 
+
+1. Kyoto University Academic Day 2016, *Giving a presentation on experimental researches of particle physics for people outside the area*, Sep, 2016
+
+1. Kyoto University Academic Day 2015, *Giving a presentation on experimental researches of neutrino physics for people outside the area*, Sep, 2015 
+
+
