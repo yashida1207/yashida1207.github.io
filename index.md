@@ -13,7 +13,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 ## **Employment**
 
 | Term | Position and Institute | 
-| :---   | :---                   | 
+| :---   | :---                 | 
 | **Jun, 2020 - Present**   | Postdoc (WIPAC, University of Wisconsin-Madison) | 
 | **Apr, 2020 - May, 2020** | Research Associate (Kyoto University) | 
 | **Apr, 2017 - Mar, 2020** | Japan Society for the Promotion of Science Research Fellow [DC1] | 
@@ -25,7 +25,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 ## **Education**
 
 | Term | School | 
-| :--- | :--- | 
+| :--- | :---   | 
 | **Apr, 2017 - Mar, 2020** | Department of Science, Kyoto University (Ph.D) | 
 | **Apr, 2015 - Mar, 2017** | Department of Science, Kyoto University (Master's Degree) | 
 | **Apr, 2011 - Mar, 2015** | Department of Engineering, Kyoto University (Bachalor's Degree) | 
@@ -77,7 +77,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e+π<sup>0</sup> and p→μ+π<sup>0</sup> with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Preprint](https://arxiv.org/abs/2010.16098)
 
-1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-νμ and anti-ν<sub>μ</sub> + ν<sub>μ</sub> charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
+1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-ν<sub>μ</sub> and anti-ν<sub>μ</sub> + ν<sub>μ</sub> charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
 
 1. K. Abe et al. (T2K Collaboration), "*Simultaneous measurement of the muon neutrino charged-current cross section on oxygen and carbon without pions in the final state at T2K*”, [Preprint](https://arxiv.org/abs/2004.05434)
 
@@ -85,7 +85,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (T2K Collaboration), "*First combined measurement of the muon neutrino and antineutrino charged-current cross section without pions in the final state at T2K*", [Preprint](https://arxiv.org/abs/2002.09323)
 
-1. K. Abe et al. (T2K Collaboration), "*First Measurement of the Charged Current anti-νμ Double Differential Cross Section on a Water Target without Pions in the final state*", [Preprint](https://arxiv.org/abs/1908.10249)
+1. K. Abe et al. (T2K Collaboration), "*First Measurement of the Charged Current anti-ν<sub>μ</sub> Double Differential Cross Section on a Water Target without Pions in the final state*", [Preprint](https://arxiv.org/abs/1908.10249)
 
 1. S. Sussman et al. (Super-Kamiokande Collaboration), "*Dinucleon and Nucleon Decay to Two-Body Final States with no Hadrons in Super-Kamiokande*", [Preprint](https://arxiv.org/abs/1811.12430)
 
@@ -93,7 +93,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (T2K Collaboration), "*Constraint on the Matter-Antimatter Symmetry-Violating Phase in Neutrino Oscillations*", [Nature 580, 339 (2020)](https://www.nature.com/articles/s41586-020-2177-0)
 
-1. K. Abe et al. (T2K Collaboration), "*Measurement of the muon neutrino charged-current single π+ production on hydrocarbon using the T2K off-axis near detector ND280*", [Physical Review D 101, 012007 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.012007)
+1. K. Abe et al. (T2K Collaboration), "*Measurement of the muon neutrino charged-current single π<sub>+</sub> production on hydrocarbon using the T2K off-axis near detector ND280*", [Physical Review D 101, 012007 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.012007)
 
 1. M. Tanaka et al. (Super-Kamiokande Collaboration), "*Search for proton decay into three charged leptons in 0.37 megaton-years exposure of the Super-Kamiokande*", [Physical Review D 101, 052011 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.052011)
 
@@ -121,9 +121,9 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe at al. (T2K Collaboration), "*Measurement of inclusive double-differential ν<sub>μ</sub> charged-current cross section with improved acceptance in the T2K off-axis near detector*", [Physical Review D 98, 012004 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.012004)
 
-1. K. Abe at al. (T2K Collaboration), "*First measurement of the νμ charged-current cross section on a water target without pions in the final state*", [Physical Review D 97, 012001 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.012001)
+1. K. Abe at al. (T2K Collaboration), "*First measurement of the ν<sub>μ</sub> charged-current cross section on a water target without pions in the final state*", [Physical Review D 97, 012001 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.012001)
 
-1. K. Abe at al. (T2K Collaboration), "*Measurement of neutrino and antineutrino oscillations by the T2K experiment including a new additional sample of νe interactions at the far detector*", [Physical Review D 96, 092006 (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.092006), [Erratum: 98, 019902 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.019902)
+1. K. Abe at al. (T2K Collaboration), "*Measurement of neutrino and antineutrino oscillations by the T2K experiment including a new additional sample of ν<sub>e</sub> interactions at the far detector*", [Physical Review D 96, 092006 (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.092006), [Erratum: 98, 019902 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.019902)
 
 1. K. Abe at al. (T2K Collaboration), "*Measurement of anti-ν<sub>μ</sub> and ν<sub>μ</sub> charged current inclusive cross sections and their ratio with the T2K off-axis near detector*", [Physical Review D 96, 052001 (2017)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.052001)
 
