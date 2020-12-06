@@ -51,15 +51,23 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Publications** 
 
+### Dissertations 
+
+1. [Ph.D Thesis, Department of Science, Kyoto University, 2020 (*in Japanese*)](https://www-he.scphys.kyoto-u.ac.jp/theses/doctor/dt_ashida.pdf), "*Measurement of Neutrino and Antineutrino Neutral-Current Quasielastic-like Interactions and Applications to Supernova Relic Neutrino Searches*"
+
+1. [Master Thesis, Department of Science, Kyoto University, 2017 (*in Japanese*)](https://www-he.scphys.kyoto-u.ac.jp/theses/master/ashida_mt.pdf), "*Study of Nucleon-Oxygen Reactions for Precise Measurements of Neutrino Neutral-Current Interactions*"
+
+1. Bachelor Thesis, Department of Engineering, Kyoto University, 2015 (*in Japanese*), "*Study of Quantum Gravity Effects by Simulations on Cosmic Microwave Background*"
+
 ### Major-contributed papers 
 
-1. Y. Ashida, H. Nagata et al., “*Measurement of γ-ray production via neutron-16O reaction using a 77 MeV quasi-mono energetic neutron beam*”, [Preprint](http://arxiv.org/abs/1902.08964)
+1. Y. Ashida, H. Nagata et al., "*Measurement of γ-ray production via neutron-16O reaction using a 77 MeV quasi-mono energetic neutron beam*", [Preprint](http://arxiv.org/abs/1902.08964)
 
-1. K. Abe et al. (T2K Collaboration), “*Measurement of neutrino and antineutrino neutral-current quasielasticlike interactions on oxygen by detecting nuclear deexcitation γ rays*”, [Physical Review D 100, 112009 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)
+1. K. Abe et al. (T2K Collaboration), "*Measurement of neutrino and antineutrino neutral-current quasielasticlike interactions on oxygen by detecting nuclear deexcitation γ rays*", [Physical Review D 100, 112009 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)
 
-1. Y. Ashida, M. Friend et al., “*A new electron-multiplier-tube-based beam monitor for muon monitoring at the T2K experiment*”, [Progress of Theoretical and Experimental Physics, 103H01 (2018)](https://academic.oup.com/ptep/article/2018/10/103H01/5145636)
+1. Y. Ashida, M. Friend et al., "*A new electron-multiplier-tube-based beam monitor for muon monitoring at the T2K experiment*", [Progress of Theoretical and Experimental Physics, 103H01 (2018)](https://academic.oup.com/ptep/article/2018/10/103H01/5145636)
 
-1. Y. Ashida, H. Nagata, Y. Koshio, T. Nakaya, R. Wendell, “*Separation of gamma-ray and neutron events with CsI(Tl) pulse shape analysis*”, [Progress of Theoretical and Experimental Physics, 043H01 (2018)](https://academic.oup.com/ptep/article/2018/4/043H01/4980960), [Erratum: 069201 (2018)](https://academic.oup.com/ptep/article/2018/6/069201/5046150)
+1. Y. Ashida, H. Nagata, Y. Koshio, T. Nakaya, R. Wendell, "*Separation of gamma-ray and neutron events with CsI(Tl) pulse shape analysis*", [Progress of Theoretical and Experimental Physics, 043H01 (2018)](https://academic.oup.com/ptep/article/2018/4/043H01/4980960), [Erratum: 069201 (2018)](https://academic.oup.com/ptep/article/2018/6/069201/5046150)
 
 ### Other papers 
 
