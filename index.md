@@ -61,7 +61,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Major-contributed papers 
 
-1. Y. Ashida, H. Nagata et al., "*Measurement of \gamma-ray production via neutron-16O reaction using a 77 MeV quasi-mono energetic neutron beam*", [Preprint](http://arxiv.org/abs/1902.08964)
+1. Y. Ashida, H. Nagata et al., "*Measurement of &gamma-ray production via neutron-16O reaction using a 77 MeV quasi-mono energetic neutron beam*", [Preprint](http://arxiv.org/abs/1902.08964)
 
 1. K. Abe et al. (T2K Collaboration), "*Measurement of neutrino and antineutrino neutral-current quasielasticlike interactions on oxygen by detecting nuclear deexcitation γ rays*", [Physical Review D 100, 112009 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)
 
