@@ -195,7 +195,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Outreach
 
-1. Kamioka Tour for High School Students, *Giving a guide on Kamioka Observatory to high school students*, Aug, 2019 
+1. Kamioka Tour for High School Students, *Giving a guide in the Super-Kamiokande experimental site to high school students*, Aug, 2019 
 
 1. Kyoto University Academic Day 2018, *Giving a presentation on experimental researches of particle physics for people outside the area*, Sep, 2018 
 
