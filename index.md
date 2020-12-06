@@ -12,7 +12,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Employment**
 
-| Period | Position and Institute | 
+| Term | Position and Institute | 
 | :---   | :---                   | 
 | **Jun, 2020 - Present**   | Postdoc (WIPAC, University of Wisconsin-Madison) | 
 | **Apr, 2020 - May, 2020** | Research Associate (Kyoto University) | 
@@ -24,7 +24,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Education**
 
-| Period | School | 
+| Term | School | 
 | :--- | :--- | 
 | **Apr, 2017 - Mar, 2020** | Department of Science, Kyoto University (Ph.D) | 
 | **Apr, 2015 - Mar, 2017** | Department of Science, Kyoto University (Master's Degree) | 
