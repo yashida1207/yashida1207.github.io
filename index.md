@@ -76,7 +76,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Conference proceedings 
 
-1. Y. Ashida (for the RCNP-E487 Collaboration), "*Measurement of gamma-ray emission from neutron-16O reactions with an 80 MeV quasi-mono energetic neutron beam*", [Proceedings of NUFACT2017, 077 (2018)](https://s3.cern.ch/inspire-prod-files-a/a6eecec8a8f1bb193131a8076cf2d57d)
+1. Y. Ashida (for the RCNP-E487 Collaboration), "*Measurement of gamma-ray emission from neutron-<sup>16</sup>O reactions with an 80 MeV quasi-mono energetic neutron beam*", [Proceedings of NUFACT2017, 077 (2018)](https://s3.cern.ch/inspire-prod-files-a/a6eecec8a8f1bb193131a8076cf2d57d)
 
 
 
