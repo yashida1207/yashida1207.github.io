@@ -184,7 +184,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Other Activities**
 
-### Programs 
+### International programs
 
 1. [The 10th International Neutrino Summer School (INSS2017)](https://indico.fnal.gov/event/13429/), Fermilab, USA, Aug, 2017
 
@@ -193,7 +193,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 1. [CERN Summer Student Programme 2015](https://home.cern/summer-student-programme), CERN, Switzerland, Jun - Sep, 2015
 
 
-### Outreach
+### Outreach activities 
 
 1. Kamioka Tour for High School Students, *Giving a guide in the Super-Kamiokande experimental site to high school students*, Aug, 2019 
 
