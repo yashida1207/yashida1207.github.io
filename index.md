@@ -99,7 +99,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Hagiwara (Super-Kamiokande Collaboration), "*Search for Astronomical Neutrinos from Blazar TXS0506+056 in Super-Kamiokande*", [The Astrophysical Journal Letters, Volume 887, Number 1 (2019)](https://iopscience.iop.org/article/10.3847/2041-8213/ab5863/meta)
 
-1. C. Simpson et al. (Super-Kamiokande Collaboration), "*Sensitivity of Super-Kamiokande with Gadolinium to Low Energy Anti-neutrinos from Pre-supernova Emission*", [The Astrophysical Journal, Volume 885, Issue 2 (2019)](https://iopscience.iop.org/article/10.3847/1538-4357/ab4883/meta)
+1. C. Simpson et al. (Super-Kamiokande Collaboration), "*Sensitivity of Super-Kamiokande with Gadolinium to Low Energy Anti-neutrinos from Pre-supernova Emission*", [The Astrophysical Journal, Volume 885, Number 2 (2019)](https://iopscience.iop.org/article/10.3847/1538-4357/ab4883/meta)
 
 1. K. Abe et al. (T2K Collaboration), "*Measurement of the muon neutrino charged-current cross sections on water, hydrocarbon, iron, and their ratios, with the T2K on-axis detectors*", [Progress of Theoretical and Experimental Physics, 093C02 (2019)](https://academic.oup.com/ptep/article/2019/9/093C02/5573875)
 
