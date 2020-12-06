@@ -75,7 +75,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Indirect Search for Dark Matter from the Galactic Center and Halo with the Super-Kamiokande Detector*", [Preprint](https://arxiv.org/abs/2005.05109)
 
-1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e+π<sup>0</sup> and p→mu+π<sup>0</sup> with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Preprint](https://arxiv.org/abs/2010.16098)
+1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e+π<sup>0</sup> and p→μ+π<sup>0</sup> with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Preprint](https://arxiv.org/abs/2010.16098)
 
 1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-νμ and anti-ν<sub>μ</sub> + ν<sub>μ</sub> charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
 
