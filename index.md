@@ -2,7 +2,7 @@
 
 I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin IceCube Particle Astrophysics Center (WIPAC)](https://wipac.wisc.edu/), University of Wisconsin-Madison. 
 
-**Research Interests**: Ultra high energy cosmic-rays, Neutrino astronomy, Multimessenger astronomy, Supernova relic neutrinos 
+**Research Interests**: Ultra high energy cosmic-rays, Cosmogenic and astrophysical neutrinos, Supernova relic neutrinos, Neutrino astronomy, Multimessenger astronomy 
 
 **Office**: WIPAC, 222 W. Washington Ave. #500, Madison, Wisconsin, 53703, USA
 
