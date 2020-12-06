@@ -1,3 +1,11 @@
 theme: jekyll-theme-cayman
 lang: ja-JP
 title: The website under construction ...
+
+{% if page.lastmod %}
+  {% assign lastmod = page.lastmod %}
+{% else %}
+  {% assign lastmod = page.date %}
+{% endif %}
+
+<span class="date">{{ lastmod }}</span>
