@@ -41,7 +41,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. Exemption from Repayment for Students with Excellent Grades (FY2016), Japan Student Services Organization (JASSO) Category 1 (interest-free) scholarship (Exemption of half of the loan)
 
-1. Representative from Japan for the CERN Summer Student Programme 2015 ([Report](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf) *in Japanese*)
+1. Representative from Japan for [CERN Summer Student Programme 2015](https://home.cern/summer-student-programme) ([Report](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf) *in Japanese*)
 
 
 
@@ -190,7 +190,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. [International School for Neutrino Nucleus Scattering Physics by Theory and Experiment Collaboration 2015 (NuSTEC2015)](https://indico.ipmu.jp/indico/event/71/), Okayama University, Japan, Nov, 2015
 
-1. CERN Summer Student Programme 2015, CERN, Switzerland, Jun - Sep, 2015
+1. [CERN Summer Student Programme 2015](https://home.cern/summer-student-programme), CERN, Switzerland, Jun - Sep, 2015
 
 
 ### Outreach
