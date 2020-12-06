@@ -63,9 +63,9 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Major-contributed papers 
 
-1. Y. Ashida, H. Nagata et al., "*Measurement of &gamma;-ray production via neutron-<sup>16</sup>O reaction using a 77 MeV quasi-mono energetic neutron beam*", [Preprint](http://arxiv.org/abs/1902.08964)
+1. Y. Ashida, H. Nagata et al., "*Measurement of γ-ray production via neutron-<sup>16</sup>O reaction using a 77 MeV quasi-mono energetic neutron beam*", [Preprint](http://arxiv.org/abs/1902.08964)
 
-1. K. Abe et al. (T2K Collaboration), "*Measurement of neutrino and antineutrino neutral-current quasielasticlike interactions on oxygen by detecting nuclear deexcitation &gamma; rays*", [Physical Review D 100, 112009 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)
+1. K. Abe et al. (T2K Collaboration), "*Measurement of neutrino and antineutrino neutral-current quasielasticlike interactions on oxygen by detecting nuclear deexcitation γ rays*", [Physical Review D 100, 112009 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)
 
 1. Y. Ashida, M. Friend et al., "*A new electron-multiplier-tube-based beam monitor for muon monitoring at the T2K experiment*", [Progress of Theoretical and Experimental Physics, 103H01 (2018)](https://academic.oup.com/ptep/article/2018/10/103H01/5145636)
 
@@ -75,7 +75,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Indirect Search for Dark Matter from the Galactic Center and Halo with the Super-Kamiokande Detector*", [Preprint](https://arxiv.org/abs/2005.05109)
 
-1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e+π<sup>0</sup> and p→mu+pi0 with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Preprint](https://arxiv.org/abs/2010.16098)
+1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e+π<sup>0</sup> and p→mu+π<sup>0</sup> with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Preprint](https://arxiv.org/abs/2010.16098)
 
 1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-νμ and anti-ν<sub>μ</sub> + ν<sub>μ</sub> charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
 
