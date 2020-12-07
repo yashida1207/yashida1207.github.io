@@ -83,21 +83,21 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. S. Sussman et al. (Super-Kamiokande Collaboration), "*Dinucleon and Nucleon Decay to Two-Body Final States with no Hadrons in Super-Kamiokande*", [Preprint](https://arxiv.org/abs/1811.12430)
 
+1. K. Abe et al. (T2K Collaboration), "*First measurement of the charged current anti-ν<sub>μ</sub> double differential cross section on a water target without pions in the final state*", [Physical Review D 102, 012007 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.012007)
+
 1. K. Abe et al. (T2K Collaboration), "*Simultaneous measurement of the muon neutrino charged-current cross section on oxygen and carbon without pions in the final state at T2K*”, [Physical Review D 101, 112004 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.112004)
 
 1. K. Abe et al. (T2K Collaboration), "*Measurement of the charged-current electron (anti-)neutrino inclusive cross sections at the T2K off-axis near detector ND280*", [Journal of High Energy Physics volume 2020, Article number: 114 (2020)](https://link.springer.com/article/10.1007/JHEP10(2020)114)
 
 1. K. Abe et al. (T2K Collaboration), "*First combined measurement of the muon neutrino and antineutrino charged-current cross section without pions in the final state at T2K*", [Physical Review D 101, 112001 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.112001)
 
-1. K. Abe et al. (T2K Collaboration), "*First measurement of the charged current anti-ν<sub>μ</sub> double differential cross section on a water target without pions in the final state*", [Physical Review D 102, 012007 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.012007)
-
 1. K. Abe et al. (T2K Collaboration), "*Search for Electron Antineutrino Appearance in a Long-Baseline Muon Antineutrino Beam*", [Physical Review Letters 124, 161802 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.161802)
 
 1. K. Abe et al. (T2K Collaboration), "*Constraint on the Matter-Antimatter Symmetry-Violating Phase in Neutrino Oscillations*", [Nature 580, 339 (2020)](https://www.nature.com/articles/s41586-020-2177-0)
 
-1. K. Abe et al. (T2K Collaboration), "*Measurement of the muon neutrino charged-current single π<sub>+</sub> production on hydrocarbon using the T2K off-axis near detector ND280*", [Physical Review D 101, 012007 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.012007)
-
 1. M. Tanaka et al. (Super-Kamiokande Collaboration), "*Search for proton decay into three charged leptons in 0.37 megaton-years exposure of the Super-Kamiokande*", [Physical Review D 101, 052011 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.052011)
+
+1. K. Abe et al. (T2K Collaboration), "*Measurement of the muon neutrino charged-current single π<sub>+</sub> production on hydrocarbon using the T2K off-axis near detector ND280*", [Physical Review D 101, 012007 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.012007)
 
 1. K. Hagiwara (Super-Kamiokande Collaboration), "*Search for Astronomical Neutrinos from Blazar TXS0506+056 in Super-Kamiokande*", [The Astrophysical Journal Letters, Volume 887, Number 1 (2019)](https://iopscience.iop.org/article/10.3847/2041-8213/ab5863/meta)
 
