@@ -188,7 +188,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. "*Study on nucleon-oxygen reactions for improving neutrino neutral-current measurement - experiment and analysis results -*", Oral Presentation (*in Japanese*), The 72nd Annual Meeting of Japan Physics Society, Mar, 2017, Osaka University, Japan 
 
-1. "*Study on Nucleon-16O Reaction for the Precise Estimation of Neutrino Neutral Current Interaction Cross Section*", Poster Presentation (*in Japanese*), Shingakujutsu Neutrino Frontier Workshop, Dec, 2016, Ishikawa, Japan 
+1. "*Study on Nucleon-<sup>16</sup>O Reaction for the Precise Estimation of Neutrino Neutral Current Interaction Cross Section*", Poster Presentation (*in Japanese*), Shingakujutsu Neutrino Frontier Workshop, Dec, 2016, Ishikawa, Japan 
 
 1. "*Measurement of gamma-ray production from neutron-oxygen reactions for the neutrino physics*", Oral Presentation (*in Japanese*), The 2016 Autumn Meeting of Japan Physics Society, Sep, 2016, Miyazaki University, Japan
 
