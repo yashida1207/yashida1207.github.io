@@ -39,7 +39,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. [The 22nd High Energy Physics Young Researcher’s Award of Japan Association of High Energy Physicists (JAHEP), 2020](http://www.jahep.org/en/syourei.html)
 
-1. Exemption from Repayment for Students with Excellent Grades (FY2016), Japan Student Services Organization (JASSO) Category 1 (interest-free) scholarship (Exemption of half of the loan)
+1. Exemption from Repayment for Students with Excellent Grades (JFY2016), Japan Student Services Organization (JASSO) Category 1 (interest-free) scholarship (Exemption of half of the loan)
 
 1. Representative from Japan for [CERN Summer Student Programme 2015](https://home.cern/summer-student-programme) ([Report](http://www.jahep.org/hepnews/2015/15-3-4-CERNSS-Ashida.pdf) *in Japanese*)
 
@@ -47,7 +47,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Research Grants**
 
-1. [Japan Society for the Promotion of Science Research Fellow (DC1), No. 17J06141](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17J06141/2017/), "*Search for supernova relic neutrinos by improving neutrino neutral current cross section measurement*"
+1. [Japan Society for the Promotion of Science Research Fellow (DC1), No. 17J06141](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17J06141/2017/), "*Search for supernova relic neutrinos by improving neutrino neutral current cross section measurement*", JFY2017-2019
 
 
 
@@ -72,6 +72,8 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 1. Y. Ashida, H. Nagata, Y. Koshio, T. Nakaya, R. Wendell, "*Separation of gamma-ray and neutron events with CsI(Tl) pulse shape analysis*", [Progress of Theoretical and Experimental Physics, 043H01 (2018)](https://academic.oup.com/ptep/article/2018/4/043H01/4980960), [Erratum: 069201 (2018)](https://academic.oup.com/ptep/article/2018/6/069201/5046150)
 
 ### Other papers 
+
+1. K. Abe et al. (Super-Kamiokande Collaboration), "*Neutron-Antineutron Oscillation Search using a 0.37 Megaton⋅Year Exposure of Super-Kamiokande*", [Preprint](https://arxiv.org/abs/2012.02607)
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Indirect Search for Dark Matter from the Galactic Center and Halo with the Super-Kamiokande Detector*", [Preprint](https://arxiv.org/abs/2005.05109)
 
