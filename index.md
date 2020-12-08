@@ -16,7 +16,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 | :---   | :---                 | 
 | **Jun, 2020 - Present**   | Postdoc (WIPAC, University of Wisconsin-Madison) | 
 | **Apr, 2020 - May, 2020** | Part-time Employee for Research (Kyoto University) | 
-| **Apr, 2017 - Mar, 2020** | Japan Society for the Promotion of Science Research Fellow [DC1] | 
+| **Apr, 2017 - Mar, 2020** | Japan Society for the Promotion of Science Research Fellow DC1 (Kyoto University) | 
 | **Aug, 2016**             | Open Campus Assistant (Kyoto University) | 
 | **Apr, 2015 - Mar, 2016** | Teaching Assistant (Kyoto University) | 
 
