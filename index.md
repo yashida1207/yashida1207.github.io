@@ -28,7 +28,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 | :--- | :---   | 
 | **Apr, 2017 - Mar, 2020** | Department of Science, Kyoto University (Ph.D) | 
 | **Apr, 2015 - Mar, 2017** | Department of Science, Kyoto University (Master's Degree) | 
-| **Apr, 2011 - Mar, 2015** | Department of Engineering, Kyoto University (Bachalor's Degree) | 
+| **Apr, 2011 - Mar, 2015** | Department of Engineering, Kyoto University (Bachelor's Degree) | 
 | **Apr, 2008 - Mar, 2011** | Osaka Seiko Gakuin High School | 
 
 
