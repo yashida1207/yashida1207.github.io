@@ -69,7 +69,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (T2K Collaboration), "*Measurement of neutrino and antineutrino neutral-current quasielasticlike interactions on oxygen by detecting nuclear deexcitation γ rays*", [Physical Review D 100, 112009 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)
 
-1. Y. Ashida, M. Friend et al., "*A new electron-multiplier-tube-based beam monitor for muon monitoring at the T2K experiment*", [Progress of Theoretical and Experimental Physics, 103H01 (2018)](https://academic.oup.com/ptep/article/2018/10/103H01/5145636)
+1. Y. Ashida et al., "*A new electron-multiplier-tube-based beam monitor for muon monitoring at the T2K experiment*", [Progress of Theoretical and Experimental Physics, 103H01 (2018)](https://academic.oup.com/ptep/article/2018/10/103H01/5145636)
 
 1. Y. Ashida, H. Nagata, Y. Koshio, T. Nakaya, and R. Wendell, "*Separation of gamma-ray and neutron events with CsI(Tl) pulse shape analysis*", [Progress of Theoretical and Experimental Physics, 043H01 (2018)](https://academic.oup.com/ptep/article/2018/4/043H01/4980960), [Erratum: 069201 (2018)](https://academic.oup.com/ptep/article/2018/6/069201/5046150)
 
