@@ -81,11 +81,11 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (T2K Collaboration), "*T2K measurements of muon neutrino and antineutrino disappearance using 3.13×10<sup>21</sup> protons on target*", [Preprint](https://arxiv.org/abs/2008.07921)
 
-1. K. Abe et al. (Super-Kamiokande Collaboration), "*Indirect Search for Dark Matter from the Galactic Center and Halo with the Super-Kamiokande Detector*", [Preprint](https://arxiv.org/abs/2005.05109)
-
 1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-ν<sub>μ</sub> and anti-ν<sub>μ</sub> + ν<sub>μ</sub> charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
 
 1. S. Sussman et al. (Super-Kamiokande Collaboration), "*Dinucleon and Nucleon Decay to Two-Body Final States with no Hadrons in Super-Kamiokande*", [Preprint](https://arxiv.org/abs/1811.12430)
+
+1. K. Abe et al. (Super-Kamiokande Collaboration), "*Indirect Search for Dark Matter from the Galactic Center and Halo with the Super-Kamiokande Detector*", [Physical Review D 102, 072002 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072002)
 
 1. K. Abe et al. (T2K Collaboration), "*First measurement of the charged current anti-ν<sub>μ</sub> double differential cross section on a water target without pions in the final state*", [Physical Review D 102, 012007 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.012007)
 
