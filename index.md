@@ -77,13 +77,13 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Neutron-Antineutron Oscillation Search using a 0.37 Megaton⋅Year Exposure of Super-Kamiokande*", [Preprint](https://arxiv.org/abs/2012.02607)
 
-1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e<sup>+</sup>π<sup>0</sup> and p→μ<sup>+</sup>π<sup>0</sup> with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Preprint](https://arxiv.org/abs/2010.16098)
-
 1. K. Abe et al. (T2K Collaboration), "*T2K measurements of muon neutrino and antineutrino disappearance using 3.13×10<sup>21</sup> protons on target*", [Preprint](https://arxiv.org/abs/2008.07921)
 
 1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-ν<sub>μ</sub> and anti-ν<sub>μ</sub> + ν<sub>μ</sub> charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
 
 1. S. Sussman et al. (Super-Kamiokande Collaboration), "*Dinucleon and Nucleon Decay to Two-Body Final States with no Hadrons in Super-Kamiokande*", [Preprint](https://arxiv.org/abs/1811.12430)
+
+1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e<sup>+</sup>π<sup>0</sup> and p→μ<sup>+</sup>π<sup>0</sup> with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Physical Review D 102, 112011 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.112011)
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Indirect Search for Dark Matter from the Galactic Center and Halo with the Super-Kamiokande Detector*", [Physical Review D 102, 072002 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072002)
 
