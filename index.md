@@ -174,7 +174,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Others 
 
-1. "*Diffuse supernova neutrino background search at Super-Kamiokande and future prospects*", Oral Presentation (*in Japanese*), The 7th Supernova Neutrino Workshop, Virtual 
+1. "*Diffuse supernova neutrino background search at Super-Kamiokande and future prospects*", Oral Presentation (*in Japanese*), The 7th Supernova Neutrino Workshop, Jan, 2021, Virtual 
 
 1. "*Search for Supernova Relic Neutrinos at Super-Kamiokande*", Oral Presentation (*in Japanese*), The 2020 Autumn Meeting of Japan Physics Society, Sep, 2020, Virtual Meeting
 
