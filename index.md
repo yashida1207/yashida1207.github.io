@@ -157,7 +157,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### International conferences and workshops 
 
-1. "*Low energy neutrino (<100 MeV) physics*", Oral Presentation, [The 2nd Workshop for Atmospheric Neutrino Production in the MeV to PeV range](https://indico.cern.ch/event/873509/overview), Jan, 2021, Virtual
+1. "*Atmospheric neutrinos as a background in supernova relic neutrino searches*", Oral Presentation, [The 2nd Workshop for Atmospheric Neutrino Production in the MeV to PeV range](https://indico.cern.ch/event/873509/overview), Jan, 2021, Virtual
 
 1. "*Neutrino-oxygen neutral-current elastic interactions as a background in supernova relic neutrino search*", Oral Presentation, [The 16th International Conference on Topics in Astroparticle and Underground Physics (TAUP2019)](http://taup2019.icrr.u-tokyo.ac.jp/), Sep, 2019, Toyama, Japan
 
