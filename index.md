@@ -178,11 +178,13 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Others 
 
+1. "*Measurement of Neutrino and Antineutrino Neutral-Current Quasielastic-like Interactions and Applications to Supernova Relic Neutrino Searches*", Commemorative Lecture for the 15th Young Scientist Award of the Physics Society of Japan, Experimental Particle Physics (*in Japanese*), The 76th Annual Meeting of Japan Physics Society, Mar, 2021, Virtual Meeting
+
 1. "*Supernova Relic Neutrino Search at Super-Kamiokande and Future Prospects*", Oral Presentation (*in Japanese*), The 7th Supernova Neutrino Workshop, Jan, 2021, Virtual 
 
 1. "*Search for Supernova Relic Neutrinos at Super-Kamiokande*", Oral Presentation (*in Japanese*), The 2020 Autumn Meeting of Japan Physics Society, Sep, 2020, Virtual Meeting
 
-1. "*Search for Supernova Relic Neutrinos at Super-Kamiokande*", Only slides uploaded due to COVID-19 (*in Japanese*), The 75th Annual Meeting of Japan Physics Society, Mar, 2020, Nagoya University, Japan
+1. "*Search for Supernova Relic Neutrinos at Super-Kamiokande*", Only presentation slides uploaded due to COVID-19 (*in Japanese*), The 75th Annual Meeting of Japan Physics Society, Mar, 2020, Nagoya University, Japan
 
 1. "*Supernova Relic Neutrino Searches in the Present and Future Kamioka Experiments*", Oral Presentation, Lunch Seminar, Mar, 2020, University of Chicago, USA
 
