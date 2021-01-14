@@ -75,6 +75,10 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Other papers 
 
+1. K. Abe et al. (Hyper-Kamiokande Collaboration), "*Supernova Model Discrimination with Hyper-Kamiokande*", [Preprint](https://arxiv.org/abs/2101.05269)
+
+1. A. Orii et al. (Super-Kamiokande Collaboration), "*Search for Tens of MeV Neutrinos associated with Gamma-Ray Bursts in Super-Kamiokande*", [Preprint](https://arxiv.org/abs/2101.03480)
+
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Neutron-Antineutron Oscillation Search using a 0.37 Megaton⋅Year Exposure of Super-Kamiokande*", [Preprint](https://arxiv.org/abs/2012.02607)
 
 1. K. Abe et al. (T2K Collaboration), "*T2K measurements of muon neutrino and antineutrino disappearance using 3.13×10<sup>21</sup> protons on target*", [Preprint](https://arxiv.org/abs/2008.07921)
