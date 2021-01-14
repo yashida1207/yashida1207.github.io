@@ -35,7 +35,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Awards, etc** 
 
-1. [The 15th Young Scientist Award of the Physics Society of Japan, Experimental Particle Physics, 2021](https://www.jps.or.jp/english/meetings-and-awards/award.html)
+1. [The 15th Young Scientist Award of the Physical Society of Japan, Experimental Particle Physics, 2021](https://www.jps.or.jp/english/meetings-and-awards/award.html)
 
 1. [The 22nd High Energy Physics Young Researcher’s Award of Japan Association of High Energy Physicists (JAHEP), 2020](http://www.jahep.org/en/syourei.html)
 
@@ -178,13 +178,13 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Others 
 
-1. "*Measurement of Neutrino and Antineutrino Neutral-Current Quasielastic-like Interactions and Applications to Supernova Relic Neutrino Searches*", Commemorative Lecture for the 15th Young Scientist Award of the Physics Society of Japan (*in Japanese*), The 76th Annual Meeting of Japan Physics Society, Mar, 2021, Virtual Meeting
+1. "*Measurement of Neutrino and Antineutrino Neutral-Current Quasielastic-like Interactions and Applications to Supernova Relic Neutrino Searches*", Commemorative Lecture for the 15th Young Scientist Award of the Physical Society of Japan (*in Japanese*), The 76th Annual Meeting of the Physical Society of Japan, Mar, 2021, Virtual Meeting
 
 1. "*Supernova Relic Neutrino Search at Super-Kamiokande and Future Prospects*", Oral Presentation (*in Japanese*), The 7th Supernova Neutrino Workshop, Jan, 2021, Virtual 
 
-1. "*Search for Supernova Relic Neutrinos at Super-Kamiokande*", Oral Presentation (*in Japanese*), The 2020 Autumn Meeting of Japan Physics Society, Sep, 2020, Virtual Meeting
+1. "*Search for Supernova Relic Neutrinos at Super-Kamiokande*", Oral Presentation (*in Japanese*), The 2020 Autumn Meeting of the Physical Society of Japan, Sep, 2020, Virtual Meeting
 
-1. "*Search for Supernova Relic Neutrinos at Super-Kamiokande*", Only presentation slides uploaded due to COVID-19 (*in Japanese*), The 75th Annual Meeting of Japan Physics Society, Mar, 2020, Nagoya University, Japan
+1. "*Search for Supernova Relic Neutrinos at Super-Kamiokande*", Only presentation slides uploaded due to COVID-19 (*in Japanese*), The 75th Annual Meeting of the Physical Society of Japan, Mar, 2020, Nagoya University, Japan
 
 1. "*Supernova Relic Neutrino Searches in the Present and Future Kamioka Experiments*", Oral Presentation, Lunch Seminar, Mar, 2020, University of Chicago, USA
 
@@ -192,23 +192,23 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. "*Measurement of neutrino-oxygen neutral-current elastic interactions for background estimation in supernova relic neutrino searches*", Oral Presentation (*in Japanese*), The 32nd Workshop on Supernova Relic Neutrinos, Mar, 2019, The University of Tokyo, Japan 
 
-1. "*Measurement of neutrino-oxygen neutral-current elastic interaction cross section at the T2K far detector*", Oral Presentation (*in Japanese*), The 74th Annual Meeting of Japan Physics Society, Mar, 2019, Kyushu University, Japan 
+1. "*Measurement of neutrino-oxygen neutral-current elastic interaction cross section at the T2K far detector*", Oral Presentation (*in Japanese*), The 74th Annual Meeting of the Physical Society of Japan, Mar, 2019, Kyushu University, Japan 
 
-1. "*Study on the electron multiplier tube as a new detector for the T2K muon monitor*", Oral Presentation (*in Japanese*), The 2018 Autumn Meeting of Japan Physics Society, Sep, 2018, Shinshu University, Japan
+1. "*Study on the electron multiplier tube as a new detector for the T2K muon monitor*", Oral Presentation (*in Japanese*), The 2018 Autumn Meeting of the Physical Society of Japan, Sep, 2018, Shinshu University, Japan
 
-1. "*Improvement of neutron-oxygen reaction simulation in Super-Kamiokande*", Oral Presentation (*in Japanese*), The 2018 Autumn Meeting of Japan Physics Society, Sep, 2018, Shinshu University, Japan
+1. "*Improvement of neutron-oxygen reaction simulation in Super-Kamiokande*", Oral Presentation (*in Japanese*), The 2018 Autumn Meeting of the Physical Society of Japan, Sep, 2018, Shinshu University, Japan
 
-1. "*Development of a new detector using secondary electron emissions for the T2K muon monitor*", Oral Presentation (*in Japanese*), The 2017 Autumn Meeting of Japan Physics Society, Sep, 2017, Utsunomiya University, Japan
+1. "*Development of a new detector using secondary electron emissions for the T2K muon monitor*", Oral Presentation (*in Japanese*), The 2017 Autumn Meeting of the Physical Society of Japan, Sep, 2017, Utsunomiya University, Japan
 
-1. "*Study on nucleon-oxygen reactions for improving neutrino neutral-current measurement - results -*", Oral Presentation (*in Japanese*), The 2017 Autumn Meeting of Japan Physics Society, Sep, 2017, Utsunomiya University, Japan
+1. "*Study on nucleon-oxygen reactions for improving neutrino neutral-current measurement - results -*", Oral Presentation (*in Japanese*), The 2017 Autumn Meeting of the Physical Society of Japan, Sep, 2017, Utsunomiya University, Japan
 
-1. "*Study on nucleon-oxygen reactions for improving neutrino neutral-current measurement - experiment and analysis results -*", Oral Presentation (*in Japanese*), The 72nd Annual Meeting of Japan Physics Society, Mar, 2017, Osaka University, Japan 
+1. "*Study on nucleon-oxygen reactions for improving neutrino neutral-current measurement - experiment and analysis results -*", Oral Presentation (*in Japanese*), The 72nd Annual Meeting of the Physical Society of Japan, Mar, 2017, Osaka University, Japan 
 
 1. "*Study on Nucleon-<sup>16</sup>O Reaction for the Precise Estimation of Neutrino Neutral Current Interaction Cross Section*", Poster Presentation (*in Japanese*), Shingakujutsu Neutrino Frontier Workshop, Dec, 2016, Ishikawa, Japan 
 
-1. "*Measurement of gamma-ray production from neutron-oxygen reactions for the neutrino physics*", Oral Presentation (*in Japanese*), The 2016 Autumn Meeting of Japan Physics Society, Sep, 2016, Miyazaki University, Japan
+1. "*Measurement of gamma-ray production from neutron-oxygen reactions for the neutrino physics*", Oral Presentation (*in Japanese*), The 2016 Autumn Meeting of the Physical Society of Japan, Sep, 2016, Miyazaki University, Japan
 
-1. "*Towards neutron-oxygen reaction induced gamma-ray productions for the neutrino physics*", Oral Presentation (*in Japanese*), The 71st Annual Meeting of Japan Physics Society, Mar, 2016, Tohoku Gakuin University, Japan
+1. "*Towards neutron-oxygen reaction induced gamma-ray productions for the neutrino physics*", Oral Presentation (*in Japanese*), The 71st Annual Meeting of the Physical Society of Japan, Mar, 2016, Tohoku Gakuin University, Japan
 
 1. "*Towards neutron-oxygen reaction induced gamma-ray productions for the neutrino physics*", Oral Presentation (*in Japanese*), The 22nd ICEPP Symposium, Mar, 2016, Nagano, Japan 
 
