@@ -87,7 +87,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Neutron-antineutron oscillation search using a 0.37 megaton-years exposure of Super-Kamiokande*", [Physical Review D 103, 012008 (2021)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.012008)
 
-1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for Proton Decay via p→e<sup>+</sup>π<sup>0</sup> and p→μ<sup>+</sup>π<sup>0</sup> with an Enlarged Fiducial Volume in Super-Kamiokande I-IV*", [Physical Review D 102, 112011 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.112011)
+1. A. Takenaka et al. (Super-Kamiokande Collaboration), "*Search for proton decay via p→e<sup>+</sup>π<sup>0</sup> and p→μ<sup>+</sup>π<sup>0</sup> with an enlarged fiducial volume in Super-Kamiokande I-IV*", [Physical Review D 102, 112011 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.112011)
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Indirect Search for Dark Matter from the Galactic Center and Halo with the Super-Kamiokande Detector*", [Physical Review D 102, 072002 (2020)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072002)
 
