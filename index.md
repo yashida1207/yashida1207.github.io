@@ -77,6 +77,8 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. K. Abe et al. (Hyper-Kamiokande Collaboration), "*Supernova Model Discrimination with Hyper-Kamiokande*", [Preprint](https://arxiv.org/abs/2101.05269)
 
+1. K. Abe et al. (T2K Collaboration), "*Improved constraints on neutrino mixing from the T2K experiment with 3.13×10<sup>21</sup> protons on target*", [Preprint](https://arxiv.org/abs/2101.03779)
+
 1. A. Orii et al. (Super-Kamiokande Collaboration), "*Search for Tens of MeV Neutrinos associated with Gamma-Ray Bursts in Super-Kamiokande*", [Preprint](https://arxiv.org/abs/2101.03480)
 
 1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-ν<sub>μ</sub> and anti-ν<sub>μ</sub> + ν<sub>μ</sub> charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
