@@ -79,11 +79,11 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 1. A. Orii et al. (Super-Kamiokande Collaboration), "*Search for Tens of MeV Neutrinos associated with Gamma-Ray Bursts in Super-Kamiokande*", [Preprint](https://arxiv.org/abs/2101.03480)
 
-1. K. Abe et al. (T2K Collaboration), "*T2K measurements of muon neutrino and antineutrino disappearance using 3.13×10<sup>21</sup> protons on target*", [Preprint](https://arxiv.org/abs/2008.07921)
-
 1. K. Abe et al. (T2K Collaboration), "*Measurements of anti-ν<sub>μ</sub> and anti-ν<sub>μ</sub> + ν<sub>μ</sub> charged-current cross-sections without detected pions nor protons on water and hydrocarbon at mean antineutrino energy of 0.86 GeV*", [Preprint](https://arxiv.org/abs/2004.13989)
 
 1. S. Sussman et al. (Super-Kamiokande Collaboration), "*Dinucleon and Nucleon Decay to Two-Body Final States with no Hadrons in Super-Kamiokande*", [Preprint](https://arxiv.org/abs/1811.12430)
+
+1. K. Abe et al. (T2K Collaboration), "*T2K measurements of muon neutrino and antineutrino disappearance using 3.13×10<sup>21</sup> protons on target*", [Physical Review D 103, L011101 (2021)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.L011101)
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Neutron-antineutron oscillation search using a 0.37 megaton-years exposure of Super-Kamiokande*", [Physical Review D 103, 012008 (2021)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.012008)
 
