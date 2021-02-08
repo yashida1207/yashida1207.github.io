@@ -75,6 +75,8 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Other papers 
 
+1. K. Abe et al. (T2K Collaboration), "*First T2K measurement of transverse kinematic imbalance in the muon-neutrino charged-current single-π<sup>+</sup> production channel containing at least one proton*", [Preprint](https://arxiv.org/abs/2102.03346)
+
 1. K. Abe et al. (Hyper-Kamiokande Collaboration), "*Supernova Model Discrimination with Hyper-Kamiokande*", [Preprint](https://arxiv.org/abs/2101.05269)
 
 1. K. Abe et al. (T2K Collaboration), "*Improved constraints on neutrino mixing from the T2K experiment with 3.13×10<sup>21</sup> protons on target*", [Preprint](https://arxiv.org/abs/2101.03779)
