@@ -35,7 +35,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ## **Awards, etc** 
 
-1. [Young Scientist Award of Cosmic Ray Researchers Congress (CRC), 2021](http://www.icrr.u-tokyo.ac.jp/CRC/shorei/index.html)
+1. [The 22nd Young Scientist Award of Cosmic Ray Researchers Congress (CRC), 2021](http://www.icrr.u-tokyo.ac.jp/CRC/shorei/index.html)
 
 1. [The 15th Young Scientist Award of the Physical Society of Japan, Experimental Particle Physics, 2021](https://www.jps.or.jp/english/meetings-and-awards/award.html)
 
