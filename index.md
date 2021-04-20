@@ -77,6 +77,8 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Other papers 
 
+1. K. Abe et al. (Super-Kamiokande Collaboration), "*Search for neutrinos in coincidence with gravitational wave events from the LIGO-Virgo O3a Observing Run with the Super-Kamiokande detector*", [Preprint](https://arxiv.org/abs/2104.09196)
+
 1. K. Abe et al. (T2K Collaboration), "*First T2K measurement of transverse kinematic imbalance in the muon-neutrino charged-current single-π<sup>+</sup> production channel containing at least one proton*", [Preprint](https://arxiv.org/abs/2102.03346)
 
 1. K. Abe et al. (Hyper-Kamiokande Collaboration), "*Supernova Model Discrimination with Hyper-Kamiokande*", [Preprint](https://arxiv.org/abs/2101.05269)
