@@ -230,7 +230,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 **IceCube research [2020 -]**: (to be updated)
 
-**Extraterrestrial electron antineutrino search at Super-Kamiokande [2019 - 202]**: (to be updated)
+**Extraterrestrial electron antineutrino search at Super-Kamiokande [2019 - 2021]**: (to be updated)
 
 **Neutrino neutral-current quasielastic scattering measurement in T2K [2018 - 2019]**: Neutrino-oxygen neutral-current quasielastic interactions are among the major backgrounds in supernova relic neutrino searches at water Cherenkov detectors. I was analysing Super-Kamipkande data from T2K beams to measure this channel precisely, utilizing nuclear γ-rays as a signal mode. The results serve the world most precise measurement for both neutrino and antineutrino cross sections of this channel. Especially the result for antineutrinos is the first experimental measurement ever. The analysis results are published in a paper ([link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.112009)). 
 
