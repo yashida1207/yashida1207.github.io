@@ -4,7 +4,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 **Research Interests**: Ultra high energy cosmic-rays, Cosmogenic and astrophysical neutrinos, Supernova relic neutrinos, Neutrino astronomy, Multimessenger astronomy 
 
-**Office**: WIPAC Room#5310, 222 W. Washington Ave. #500, Madison, Wisconsin, 53703, USA
+**Office**: WIPAC Room #5310, 222 W. Washington Ave. #500, Madison, Wisconsin, 53703, USA
 
 **Email**: yosuke.ashida [at] icecube.wisc.edu
 
