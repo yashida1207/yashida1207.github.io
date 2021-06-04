@@ -65,7 +65,8 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Major-contributed papers 
 
-1. R. Abbasi et al. (IceCube Collaboration), "*Probing neutrino emission at GeV energies from compact binary mergers with the IceCube Neutrino Observatory*", [Preprint](https://arxiv.org/abs/2105.13160)
+1. K. Abe et al. (Super-Kamiokande Collaboration), "*Search for solar electron anti-neutrinos due to spin-flavor precession in the Sun with Super-Kamiokande-IV
+*", [Preprint](https://arxiv.org/abs/2012.03807)
 
 1. Y. Ashida, H. Nagata et al., "*Measurement of γ-ray production via neutron-<sup>16</sup>O reaction using a 77 MeV quasi-mono energetic neutron beam*", [Preprint](http://arxiv.org/abs/1902.08964)
 
@@ -76,6 +77,8 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 1. Y. Ashida, H. Nagata, Y. Koshio, T. Nakaya, and R. Wendell, "*Separation of gamma-ray and neutron events with CsI(Tl) pulse shape analysis*", [Progress of Theoretical and Experimental Physics, 043H01 (2018)](https://academic.oup.com/ptep/article/2018/4/043H01/4980960), [Erratum: 069201 (2018)](https://academic.oup.com/ptep/article/2018/6/069201/5046150)
 
 ### Other papers 
+
+1. R. Abbasi et al. (IceCube Collaboration), "*Probing neutrino emission at GeV energies from compact binary mergers with the IceCube Neutrino Observatory*", [Preprint](https://arxiv.org/abs/2105.13160)
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Search for neutrinos in coincidence with gravitational wave events from the LIGO-Virgo O3a Observing Run with the Super-Kamiokande detector*", [Preprint](https://arxiv.org/abs/2104.09196)
 
