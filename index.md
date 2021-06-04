@@ -65,8 +65,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Major-contributed papers 
 
-1. K. Abe et al. (Super-Kamiokande Collaboration), "*Search for solar electron anti-neutrinos due to spin-flavor precession in the Sun with Super-Kamiokande-IV
-*", [Preprint](https://arxiv.org/abs/2012.03807)
+1. K. Abe et al. (Super-Kamiokande Collaboration), "*Search for solar electron anti-neutrinos due to spin-flavor precession in the Sun with Super-Kamiokande-IV*", [Preprint](https://arxiv.org/abs/2012.03807)
 
 1. Y. Ashida, H. Nagata et al., "*Measurement of γ-ray production via neutron-<sup>16</sup>O reaction using a 77 MeV quasi-mono energetic neutron beam*", [Preprint](http://arxiv.org/abs/1902.08964)
 
