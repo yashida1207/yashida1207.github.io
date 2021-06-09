@@ -263,7 +263,9 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Outreach activities 
 
-1. [IceCube Masterclass at Chiba University](http://www.icehap.chiba-u.jp/publicrelations/masterclass/masterclass20210530.html), May, 2021 
+1. IceCube Bootcamp 2021 at WPAC, *Working as one of organizers for the tutorial lectures for new comers in IceCube*, Jun, 2021
+
+1. [IceCube Masterclass at Chiba University](http://www.icehap.chiba-u.jp/publicrelations/masterclass/masterclass20210530.html), *Working as a tutor for high school students in the masterclass*, May, 2021 
 
 1. Kamioka Tour for High School Students, *Giving a guide in the Super-Kamiokande experimental site to high school students*, Aug, 2019 
 
