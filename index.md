@@ -261,7 +261,7 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 1. [CERN Summer Student Programme 2015](https://home.cern/summer-student-programme), CERN, Switzerland, Jun - Sep, 2015
 
 
-### Outreach activities 
+### Outreach activities, etc 
 
 1. IceCube Bootcamp 2021 at WPAC, *Working as one of organizers for the tutorial lectures for new comers in IceCube*, Jun, 2021
 
