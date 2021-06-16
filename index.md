@@ -77,6 +77,8 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Other papers 
 
+1. R. Abbasi et al. (IceCube Collaboration), "*All-flavor constraints on nonstandard neutrino interactions and generalized matter potential with three years of IceCube DeepCore data*", [Preprint](https://arxiv.org/abs/2106.07755)
+
 1. R. Abbasi et al. (IceCube Collaboration), "*Probing neutrino emission at GeV energies from compact binary mergers with the IceCube Neutrino Observatory*", [Preprint](https://arxiv.org/abs/2105.13160)
 
 1. K. Abe et al. (Super-Kamiokande Collaboration), "*Search for neutrinos in coincidence with gravitational wave events from the LIGO-Virgo O3a Observing Run with the Super-Kamiokande detector*", [Preprint](https://arxiv.org/abs/2104.09196)
