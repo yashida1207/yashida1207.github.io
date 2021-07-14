@@ -163,9 +163,9 @@ I am an experimental particle astrophysicist, working as a postdoc at [Wisconsin
 
 ### Conference proceedings 
 
-1. Cristina Lagunas Gualda, Yosuke Ashida, Ankur Sharma, and Hamish Thomas (for the IceCube Collaboration), "*Studies of systematic uncertainty effects on IceCube's real-time angular uncertainty*", [Proceedings of ICRC2021 (coming soon)]()
+1. C. Lagunas Gualda, Y. Ashida, A. Sharma, and H. Thomas (for the IceCube Collaboration), "*Studies of systematic uncertainty effects on IceCube's real-time angular uncertainty*", [Proceedings of ICRC2021 (coming soon)]()
 
-1. Sonia El Hedri, Yosuke Ashida, and Alberto Giampaolo (for the Super-Kamiokande Collaboration), "*The diffuse supernova neutrino background in Super-Kamiokande*", [Proceedings of ICRC2021 (coming soon)]()
+1. S. El Hedri, Y. Ashida, and A. Giampaolo (for the Super-Kamiokande Collaboration), "*The diffuse supernova neutrino background in Super-Kamiokande*", [Proceedings of ICRC2021 (coming soon)]()
 
 1. Y. Ashida (for the RCNP-E487 Collaboration), "*Measurement of gamma-ray emission from neutron-<sup>16</sup>O reactions with an 80 MeV quasi-mono energetic neutron beam*", [Proceedings of NUFACT2017, 077 (2018)](https://s3.cern.ch/inspire-prod-files-a/a6eecec8a8f1bb193131a8076cf2d57d)
 
